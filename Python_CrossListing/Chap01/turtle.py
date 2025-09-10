@@ -1,3 +1,5 @@
+## 왜 작동 안됨??????
+
 import turtle  # turtle 모듈을 불러옵니다
 
 t = turtle.Turtle()  # 거북이 객체를 생성합니다
