@@ -1,6 +1,7 @@
 ## 왜 작동 안됨??????
 
 import turtle  # turtle 모듈을 불러옵니다
+## 파일명 turtle.py >> turtleGraphicsTest.py로 변경하니 정상 작동.
 
 t = turtle.Turtle()  # 거북이 객체를 생성합니다
 t.shape("turtle")   # 거북이의 모양을 거북이로 설정합니다
