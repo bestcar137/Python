@@ -8,4 +8,4 @@
 repeat_String = input("반복할 문자열을 입력하세요: ")
 repeat_Time = input("반복할 횟수를 입력하세요: ")
 
-print(f"결과: {repeat_String * 3}")
+print(f"결과: {repeat_String * int(repeat_Time)}")
