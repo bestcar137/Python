@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("20262-10-08, 24117000, 차민규\n");
+    printf("2026-10-08, 24117000, 차민규\n");
     printf("(예제 2) 블록의 중첩\n");
     int x = 1; {
         int y = 0;
