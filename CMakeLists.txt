@@ -4,6 +4,9 @@ project(Python C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Python
-        Programming_Language_Structures/chap04/prac02-04.c)
+        Programming_Language_Structures/chap04/prac01-03.c)
 
 add_executable(Programming_Language_Structures_chap04_prac09 Programming_Language_Structures/chap04/prac09.c)
+add_executable(Programming_Language_Structures_chap04_prac08 Programming_Language_Structures/chap04/prac08.c)
+add_executable(Programming_Language_Structures_chap04_prac02-04 Programming_Language_Structures/chap04/prac01-03.c)
+add_executable(Programming_Language_Structures_chap04_prac_p23 Programming_Language_Structures/chap04/prac_p23.c)

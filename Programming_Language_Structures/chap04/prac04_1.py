@@ -6,5 +6,9 @@ print(score)
 print(type(score))
 
 score = "차민규"
+print(score)
+print(type(score))
+# 파이썬 언어에서의 변수
+# 변수에 어떤 값을 담느냐에 따라 변수의 타입이 동적으로 결정.
 
 
